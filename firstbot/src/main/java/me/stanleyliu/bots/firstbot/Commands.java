@@ -70,7 +70,7 @@ public class Commands extends ListenerAdapter{
                           break;
                  case 8:  slur = "You are like the first piece of bread " + discordname + " everybody touches you but no one wants you";
                           break;
-                 case 9:  slur = "I bet you will be put in Hufflepuff" + discordname;
+                 case 9:  slur = "I bet you will be put in Hufflepuff " + discordname;
                           break;
                  case 10: slur = discordname + " were you born on the highway? because that is the place where most accidents happen";
                           break;
